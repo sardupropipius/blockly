@@ -937,18 +937,18 @@ Blockly.Msg.RFID_CHECK_CARD2 = "?";
 //NFC PN532
 Blockly.Msg.NFC_name = "💳 NFC ";
 Blockly.Msg.NFC_init = "NFC I2C ";
-Blockly.Msg.NFC_VALID_VAR = "Validation card(4bytes):";
-Blockly.Msg.NFC_VALID_VAR2 = "Validation card(7bytes):";
-Blockly.Msg.NFC_C1 = "Value1";
-Blockly.Msg.NFC_C2 = "Value2";
-Blockly.Msg.NFC_C3 = "Value3";
+Blockly.Msg.NFC_VALID_VAR = "Carta di convalida(4bytes):";
+Blockly.Msg.NFC_VALID_VAR2 = "Carta di convalida(7bytes):";
+Blockly.Msg.NFC_C1 = "Valore1";
+Blockly.Msg.NFC_C2 = "Valore2";
+Blockly.Msg.NFC_C3 = "Valore3";
 Blockly.Msg.NFC_C4 = "Value4";
-Blockly.Msg.NFC_C5 = "Value5";
-Blockly.Msg.NFC_C6 = "Value6";
-Blockly.Msg.NFC_C7 = "Value4";
-Blockly.Msg.NFC_DETECTED = "card detected?";
-Blockly.Msg.NFC_CARD_READED = "Read Value";
-Blockly.Msg.NFC_CHECK_CARD = "Is card Read = Validation card";
+Blockly.Msg.NFC_C5 = "Valore5";
+Blockly.Msg.NFC_C6 = "Valore6";
+Blockly.Msg.NFC_C7 = "Valore4";
+Blockly.Msg.NFC_DETECTED = "carta rilevata?";
+Blockly.Msg.NFC_CARD_READED = "Leggi Valore";
+Blockly.Msg.NFC_CHECK_CARD = "la lettura della carta = carta di convalida";
 Blockly.Msg.NFC_CHECK_CARD2 = "?";
 
 //KEYBOARD AND MOUSE
@@ -966,12 +966,12 @@ Blockly.Msg.SSERIAL_Init="Init SoftwareSerial";
 Blockly.Msg.SSERIAL_TX="Pin TX#";
 Blockly.Msg.SSERIAL_RX="Pin RX#";
 Blockly.Msg.SSERIAL_BAUD="Baudios";
-Blockly.Msg.SSERIAL_Read="SoftwareSerial Read byte";
-Blockly.Msg.SSERIAL_Println="SoftwareSerial Print on new line";
-Blockly.Msg.SSERIAL_Print="SoftwareSerial Print on same line";
-Blockly.Msg.SSERIAL_Write="SoftwareSerial write"
-Blockly.Msg.SSERIAL_Avai="SoftwareSerial Available?";
-Blockly.Msg.SSerial_Print_Format="SoftwareSerial Print  Format";
-Blockly.Msg.SSERIAL_ReadNum="SoftwareSerial Read as number";
-Blockly.Msg.SSERIAL_ReadString="SoftwareSerial Read String";
-Blockly.Msg.SSERIAL_Readlf="until line feed";
+Blockly.Msg.SSERIAL_Read="SoftwareSerial Leggi byte";
+Blockly.Msg.SSERIAL_Println="SoftwareSeriale Stampa su nuova riga";
+Blockly.Msg.SSERIAL_Print="SoftwareSeriale Stampa nella stessa riga";
+Blockly.Msg.SSERIAL_Write="invia alla porta software"
+Blockly.Msg.SSERIAL_Avai="SoftwareSeriale Disponibile?";
+Blockly.Msg.SSerial_Print_Format="SoftwareSeriale Formato di Stampa";
+Blockly.Msg.SSERIAL_ReadNum="SoftwareSeriale Leggi come Numero";
+Blockly.Msg.SSERIAL_ReadString="SoftwareSeriale leggi come Stringa";
+Blockly.Msg.SSERIAL_Readlf="fino all'avanzamento riga";
