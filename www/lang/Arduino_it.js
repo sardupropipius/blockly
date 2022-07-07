@@ -533,13 +533,13 @@ Blockly.Msg.OTTO9_ARMS_TOOLTIP = "Muovi le braccia!";
 Blockly.Msg.OTTO9_ARMS_CHOICE = [["mani in alto", "HANDSUP"], ["onda mano sinistra", "HANDWAVE1"], ["onda mano destra", "HANDWAVE2"]];
 
 /// ESP8266
-Blockly.Msg.OTTO9_YL="Left leg";
-Blockly.Msg.OTTO9_YR="Right leg";
-Blockly.Msg.OTTO9_RL="Left foot";
-Blockly.Msg.OTTO9_RR="Right foot";
+Blockly.Msg.OTTO9_YL="Gamba sinistra";
+Blockly.Msg.OTTO9_YR="Gamba destra";
+Blockly.Msg.OTTO9_RL="Piede sinistro";
+Blockly.Msg.OTTO9_RR="Piede destro";
 Blockly.Msg.OTTO9_BUZZER="Buzzer";
-Blockly.Msg.OTTO_HOME_TOOLTIP = "Otto goes to home position straight.";
-Blockly.Msg.OTTO_HOME_TEXT = "Configuration";
+Blockly.Msg.OTTO_HOME_TOOLTIP = "Otto va dritto alla posizione home.";
+Blockly.Msg.OTTO_HOME_TEXT = "Configurazione";
 
 ////////////ESCORNABOT Robot////////// ONLY TRANSLATE THE LEFT PART INSIDE ["THIS YES" ,NOT]
 Blockly.Msg.ESCORNABOT_MODE_TEXT="Init Escornabot";
